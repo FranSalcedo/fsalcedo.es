@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Expo"
-date:   2016-01-23 11:12:44 +0100
 categories: jekyll update
-image: prueba2.icon.jpg
+image: prueba1.icon.jpg
 ---
 
 ![imagen](/img/prueba1.jpg)
