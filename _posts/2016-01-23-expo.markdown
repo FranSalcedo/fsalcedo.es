@@ -1,8 +1,27 @@
 ---
 layout: post
+<<<<<<< HEAD
 title:  "Expo"
+=======
+title:  "Sueños"
+date:   2016-01-23 11:12:44 +0100
+>>>>>>> 5820d3c0f0483f57258c77bc01b81b373a841760
 categories: jekyll update
-image: prueba1.icon.jpg
+image: prueba2.icon.jpg
 ---
 
+<<<<<<< HEAD
 ![imagen](/img/prueba1.jpg)
+=======
+![imagen](/img/prueba2.jpg)
+
+Jekyll also offers powerful support for code snippets:
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+>>>>>>> 5820d3c0f0483f57258c77bc01b81b373a841760

@@ -1,6 +1,11 @@
 ---
 layout: post
+<<<<<<< HEAD
 title:  "Welcome to Jekyll!"
+=======
+title:  "Ilustrando"
+date:   2016-01-23 11:12:44 +0100
+>>>>>>> 5820d3c0f0483f57258c77bc01b81b373a841760
 categories: jekyll update
 image: prueba2.icon.jpg
 ---
