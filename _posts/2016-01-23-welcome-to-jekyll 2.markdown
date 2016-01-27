@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Wdfgme to Jekyll!"
 categories: jekyll update
 image: prueba2.icon.jpg
 ---
