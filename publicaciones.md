@@ -1,6 +1,6 @@
 ---
 layout: page
-title: B
+title: Publicaciones
 permalink: /B/
 ---
 

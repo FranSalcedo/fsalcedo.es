@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C
+title: proyectos
 permalink: /Proyectos/
 ---
 
