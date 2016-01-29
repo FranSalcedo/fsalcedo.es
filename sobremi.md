@@ -1,7 +1,14 @@
 ---
 layout: page
-title: Sobre mí
-permalink: /Sobre mí/
+title: A
+permalink: /Sobre mi/
 ---
 
-Soy un ilustrador Chachi Molón pirulon
+ <img src="img/sobremi.jpg"/>Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
+ Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
+ Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
+ Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
+ Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
+ Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
+ Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
+ Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
