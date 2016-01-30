@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wdfgme to Jekyll!"
-categories: jekyll update
+categories: publicaciones
 image: trab01.icon.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcomesss to Jekyll!"
 title:  "Ilustrando"
-categories: jekyll update
+categories: blog
 image: trab06.icon.jpg
 ---
 
