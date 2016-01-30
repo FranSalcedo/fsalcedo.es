@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll! 3"
-categories: jekyll update
+categories: ilustracion
 image: trab02.icon.jpg
 ---
 
