@@ -1,0 +1,9 @@
+
+---
+layout: post
+title:  "Welcome to Jekyll!"
+categories: ilustracion
+image: trab04.icon.jpg
+---
+
+![imagen](/img/trab04.jpg)
