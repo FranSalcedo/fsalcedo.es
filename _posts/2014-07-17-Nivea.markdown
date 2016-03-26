@@ -7,3 +7,4 @@ image: trab04.icon.jpg
 ---
 
 ![imagen](/img/trab04.jpg)
+![imagen](/img/actu.jpg)
