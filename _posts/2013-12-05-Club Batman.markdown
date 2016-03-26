@@ -7,6 +7,16 @@ image: trab09.icon.jpg
 
 ![imagen](/img/trab09.jpg)
 
-En 1938 se publicó el nº1 de Action Comics con la creación de Jerry Siegel y Joe Shuster. Un año después, debido al éxito del personaje, apareció su contrapunto: Batman. Desde entonces el éxito no ha parado de crecer. Hoy, 75 años después forman parte de la iconología de nuestro tiempo, traspasando las fronteras del papel, apareciendo con gran éxito en cine, televisión, radio, videojuegos, merchandising... 
+Os enseño la ilustración para la II Jornada de Ilustración / The World´s Finest Expo En Comic Stores, c/Trinidad Grund, 11, Málaga (junto a Alameda Principal) donde he tenido la oportunidad de exponer junto a otros verdaderos profesionales. Ha sido un verdadero placer dibujar a dos grandes iconos del mundo del cómic. He tenido que tomar referencias de dos artistas: Alex Ross y Greg Capullo para orientarme en los detalles de cada personaje.
 
-Para conmemorar este evento, el Club Batman organiza una exposición a modo de homenaje titulada "The World´s Finest" en la que se mostrarán ilustraciones de diversos autores como Dave Bullock, Tomás M. Aranda, Fernando Dagnino, Fran Salcedo, José Luís Soares, Juan Torres, Mike Deodato Jr, Luciano Vecchio, Cafu, Jean Sinclair, Raffaele Marinetti y Vicente Cifuentes entre otros.
+Ha sido una experiencia nueva, salirme un poco de mis estilo de dibujos e intentar crear algo totalmente nuevo para mi. Ha sido mi primera vez que dibujo superheroes, pero ya os adelanto
+que no va a ser la ultima.
+
+Así que agradezco al Club de Batman por esta gran oportunidad
+
+¡Espero que os guste!
+
+Os dejo al webFace del club:
+https://www.facebook.com/ClubBatmanSpain
+https://www.facebook.com/ClubBatmanSpain/photos/pb.100900529951459.-2207520000.1459011628./624901747551332/?type=3&theater
+https://www.facebook.com/ClubBatmanSpain/photos/pb.100900529951459.-2207520000.1459011628./625329800841860/?type=3&theater

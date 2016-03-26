@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A
+title: Sobre mí
 permalink: /Sobre mi/
 orden: 7
 ---
@@ -10,14 +10,10 @@ orden: 7
  <div style="text-align:center;"><a href="https://www.flickr.com/photos/aleksgreen/" target="_blank">Foto: Aleks Green</a></div>
 </div>
 
- Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
- Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
- Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
- Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
- Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
- Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
- Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
- Hola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola holaHola hola hola
+Sueña con ese Dragón, este es mi lema. Ilustrador nacido en Valencia con la pasion de contar historias corriendo por sus venas.
+Amante del cómic, la ilustración y el cine. Diseñador Gráfico por las mañanas, ilustrador de tardes.
+
+
 
  <img src="/img/logoapiv.png" />
  <img src="/img/logoesat.png" />
