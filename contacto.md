@@ -4,9 +4,6 @@ title: Contacto
 permalink: /Contacto/
 orden: 999
 ---
-
-COLOCAR AQUI EL FORMULARIO WEB COMO EN ROMEROESTUDIO
-
 <table style="width:100%;">
 	<tr>
 		<td>
