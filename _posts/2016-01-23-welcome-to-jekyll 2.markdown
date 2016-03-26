@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wdfgme to Jekyll!"
+title:  "Academia de estudios Bau"
 categories: publicaciones
 image: trab01.icon.jpg
 ---
