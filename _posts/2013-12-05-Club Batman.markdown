@@ -2,7 +2,6 @@
 layout: post
 title:  "The World´s Finest Expo"
 categories: publicaciones
-permalink: /B/
 image: trab09.icon.jpg
 ---
 
