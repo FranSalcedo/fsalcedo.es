@@ -5,4 +5,4 @@ categories: blog
 image: trab06.icon.jpg
 ---
 
-![imagen](/img/trab06.jpg)
+![imagen](/img/actu.jpg)
