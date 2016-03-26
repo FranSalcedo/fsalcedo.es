@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Welcomedd to Jekyll!"
+title:  "Refugio Ilustrado"
 categories: publicaciones
 image: trab08.icon.jpg
 ---
 
 ![imagen](/img/trab08.jpg)
-jur
