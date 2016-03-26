@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "The World´s Finest Expo"
-permalink: /B/
 image: trab09.icon.jpg
 ---
 
