@@ -5,4 +5,4 @@ categories: publicaciones
 image: trab09.icon.jpg
 ---
 
-!![imagen](/img/actu.jpg)
+![imagen](/img/actu.jpg)
