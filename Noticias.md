@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Noticias
-permalink:
+permalink: /Noticias/
 orden: 4
 ---
 
