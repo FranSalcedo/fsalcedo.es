@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sobre mí
-permalink: /Sobre mí/
+title: Noticias
+permalink:
 orden: 4
 ---
 
