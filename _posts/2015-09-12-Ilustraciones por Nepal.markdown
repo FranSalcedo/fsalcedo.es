@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "Ilustraciones por nepal"
-categories: jekyll update
+categories: publicaciones
 image: not04.icon.jpg
 ---
 
