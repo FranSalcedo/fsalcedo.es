@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcomedd to Jekyll!"
+title:  "Patio ilustrado"
 categories: jekyll update
 image: not03.icon.jpg
 ---
