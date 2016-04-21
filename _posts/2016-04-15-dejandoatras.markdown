@@ -9,7 +9,7 @@ image: trab08.icon.jpg
  <img src="/img/trab08.jpg" style="display:block;"/>
 </div>
 
-#H1 **“Dejando atrás”**
+## "Dejando atrás"
 **Ilustración:** Fran Salcedo
 
 **Relato:** Ricardo Herranz Peris
@@ -27,6 +27,9 @@ Seguimos dejando atrás. Seguimos con vida.
 **LINKS:**
 
 Web de Ricardo Herranz Peris
-<iframe src="/img/8dias.jpg" width="500" height="179" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe><a href="http://8diasxsemana.blogspot.com.es/" target="_blank"></a>
+
+<a href="http://8diasxsemana.blogspot.com.es/" target="_blank"><img src="/img/8dias.jpg"></a>
+
 Web Refugio Ilustrado
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frefugioilustrado%2Fposts%2F1019818038054481%3A0&width=500" width="500" height="179" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
