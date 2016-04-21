@@ -4,6 +4,7 @@ title:  "Dejando atrás"
 categories: publicaciones
 image: trab08.icon.jpg
 ---
+Ilustración Realizada para la campaña gráfica en apoyo a las personas migrantes, víctimas de esta llamada “crisis de los refugiados” y de la inoperancia de los países europeos. **Organizada por Associació Professional d'Il·lustradors de València - APIV (España)**
 
 <div style="float:left;margin: 0 16px;">
  <img src="/img/trab08.jpg" style="display:block;"/>
@@ -26,10 +27,14 @@ Seguimos dejando atrás. Seguimos con vida.
 
 **LINKS:**
 
+Web Refugio Ilustrado
+
+<a href="http://refugioilustrado.tumblr.com/" target="_blank"><img src="/img/refugio01.jpg"></a>
+
+Link Exposición:
+
+<a href="http://www.apiv.com/actualitat/categoria_1/noticies/noticia_148/exposicio-refugi-illustrat-entre-el-taut-i-la-maleta" target="_blank"><img src="/img/exporefugi.jpg"></a>
+
 Web de Ricardo Herranz Peris
 
 <a href="http://8diasxsemana.blogspot.com.es/" target="_blank"><img src="/img/8dias.jpg"></a>
-
-Web Refugio Ilustrado
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frefugioilustrado%2Fposts%2F1019818038054481%3A0&width=500" width="500" height="179" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
