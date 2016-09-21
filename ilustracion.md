@@ -6,4 +6,3 @@ orden: 2
 ---
 
 {% include posts.html category="ilustracion" %}
-![imagen](/img/actu.jpg)

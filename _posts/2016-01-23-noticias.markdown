@@ -6,4 +6,3 @@ image: not01.icon.jpg
 ---
 
 ![imagen](/img/not01.jpg)
-![imagen](/img/actu.jpg)
