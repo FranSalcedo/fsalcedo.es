@@ -10,7 +10,7 @@ orden: 7
  <div style="text-align:center;"><a href="https://www.flickr.com/photos/aleksgreen/" target="_blank">Foto: Aleks Green</a></div>
 </div>
 
-Sueña con ese Dragón, este es mi lema. Ilustrador nacido en Valencia con la pasion de contar historias corriendo por sus venas.
+Sueña con ese Dragón, este es mi lema. Ilustrador nacido en Valencia con la pasión de contar historias corriendo por sus venas.
 Amante del cómic, la ilustración y el cine. Diseñador Gráfico por las mañanas, ilustrador de tardes.
 
 
