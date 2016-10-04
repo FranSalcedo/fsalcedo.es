@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publicaciones
-permalink: /B/
+permalink: /Publicaciones/
 orden: 6
 ---
 

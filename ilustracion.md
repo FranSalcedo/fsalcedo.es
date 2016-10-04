@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ilustracion
+title: Ilustración
 permalink: /Ilustracion/
 orden: 2
 ---
