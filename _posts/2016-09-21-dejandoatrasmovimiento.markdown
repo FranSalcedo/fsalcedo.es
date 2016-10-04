@@ -5,7 +5,6 @@ categories: publicaciones
 image: trab11.icon.jpg
 ---
 
-## "21 de septiembre, Día Internacional de la Paz"
 **Ilustración:** Fran Salcedo
 
 **Fuente:** <a href="http://www.mpdl.org/" target="_blank">http://www.mpdl.org/</a>
