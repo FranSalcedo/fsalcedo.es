@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Patio ilustrado"
-categories: jekyll update
+categories: noticias
 image: not03.icon.jpg
 ---
 

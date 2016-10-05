@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ilustraciones por nepal"
-categories: publicaciones
+categories: noticias
 image: not04.icon.jpg
 ---
 

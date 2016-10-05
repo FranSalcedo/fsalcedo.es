@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Expo"
-categories: jekyll update
-image: prueba1.icon.jpg
----
-
-![imagen](/img/prueba1.jpg)

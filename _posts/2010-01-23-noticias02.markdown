@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Concurso pixfans"
-categories: jekyll update
+categories: noticias
 image: not02.icon.jpg
 ---
 

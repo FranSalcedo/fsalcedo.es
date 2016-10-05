@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cerveza Tyris"
-categories: jekyll update
+categories: publicaciones
 image: not01.icon.jpg
 ---
 

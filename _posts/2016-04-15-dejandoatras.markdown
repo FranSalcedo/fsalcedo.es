@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dejando atrás"
-categories: publicaciones
+categories: exposiciones
 image: trab08.icon.jpg
 ---
 Ilustración Realizada para la campaña gráfica en apoyo a las personas migrantes, víctimas de esta llamada “crisis de los refugiados” y de la inoperancia de los países europeos. **Organizada por Associació Professional d'Il·lustradors de València - APIV (España)**

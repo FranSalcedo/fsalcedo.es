@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sena la Paloma guerrera"
-categories: blog
+categories: ilustracion
 image: trab06.icon.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Sobre mí
 permalink: /Sobre mi/
-orden: 7
+orden: 8
 ---
 
 <div style="float:left;margin: 0 16px;">

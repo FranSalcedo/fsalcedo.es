@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mención de honor en Pastando en Mulgore"
-categories: jekyll update
+categories: publicaciones
 image: not05.icon.jpg
 ---
 

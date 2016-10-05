@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ilustración
-permalink: /Ilustracion/
+permalink: /ilustracion/
 orden: 2
 ---
 
