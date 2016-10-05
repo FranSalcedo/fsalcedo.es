@@ -9,6 +9,7 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/font-awesome.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
@@ -57,12 +58,13 @@
     </div>
 
     <div class="row">
-      <h2 class="footer-heading">Fran Salcedo Art</h2>
+      <h2 class="footer-heading"></h2>
 
       <div class="col-sm-4 col-md-4">
-        <ul class="contact-list">
-          <li>Fran Salcedo Art</li>
-          <li></li>
+        <ul class="contact-list" style="padding:0;list-style:none;">
+          <li><a href="https://www.facebook.com/FranciscoSalcedoArt/"><i class="fa fa-facebook-official" aria-hidden="true"></i> FranciscoSalcedoArt</li></a>
+          <li><a href="https://twitter.com/FranKheidar"><i class="fa fa-twitter" aria-hidden="true"></i> FranKheidar</li></a>
+          <li><a href="https://www.instagram.com/fransalcedoart/"><i class="fa fa-instagram" aria-hidden="true"></i> fransalcedoart</a></li>
         </ul>
       </div>
 
