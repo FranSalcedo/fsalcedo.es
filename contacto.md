@@ -22,7 +22,7 @@ orden: 99
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </div>
   <div class="col-xs-12 col-md-4">
-  			<div class="fb-page" data-href="https://www.facebook.com/FranciscoSalcedoArt/" data-tabs="timeline" data-height="365" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/FranciscoSalcedoArt/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/FranciscoSalcedoArt/">Francisco Salcedo Art</a></blockquote></div>
+  			<div class="fb-page" data-href="https://www.facebook.com/FranSalcedoArt/" data-tabs="timeline" data-height="365" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/FranSalcedoArt/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/FranSalcedoArt/">Francisco Salcedo Art</a></blockquote></div>
   </div>
   <div class="col-xs-12 col-md-4">
   			<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/11b9e427e1785884ba4824b3528f0340.html" id="lightwidget_11b9e427e1" name="lightwidget_11b9e427e1"  scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
