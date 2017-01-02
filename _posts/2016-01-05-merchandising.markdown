@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Merchandising"
-categories: noticias
+categories: blog
 image: trab21.icon.jpg
 ---
 ## Preparando Merchandising
