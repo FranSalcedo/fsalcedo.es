@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "GIFF 2016 ALBORAYA"
+categories: publicaciones
+image: trab13.icon.jpg
+---
+
+![imagen](/img/trab1·.jpg)
