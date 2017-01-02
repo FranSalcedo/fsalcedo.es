@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Emma"
-categories: blog
-image: trab15.icon.jpg
+title:  "Exposicion Refugiados"
+categories: exposiciones
+image: trab17.icon.jpg
 ---
 
-![imagen](/img/trab15.jpg)
+![imagen](/img/trab17.jpg)
+![imagen](/img/trab17a.jpg)
+![imagen](/img/trab17b.jpg)
 
-¡Somos tios!
-
-## BIENVENIDA AL MUNDO SOBRINA
-
-FRAN SALCEDO
+<a href="https://www.facebook.com/refugioilustrado/" target="_blank">Exposición refugiados</a>

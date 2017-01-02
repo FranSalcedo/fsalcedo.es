@@ -6,5 +6,3 @@ image: not02.icon.jpg
 ---
 
 ![imagen](/img/not02.jpg)
-
-

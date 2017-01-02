@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cerveza Tyris"
-categories: publicaciones
+categories: exposiciones
 image: not01.icon.jpg
 ---
 
