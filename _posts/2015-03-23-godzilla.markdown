@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Godzilla VS Mazinger Z"
+categories: ilustracion
+image: trab22.icon.jpg
+---
+
+![imagen](/img/trab22.jpg)

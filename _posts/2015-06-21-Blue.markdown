@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Blue"
+categories: ilustracion
+image: trab23.icon.jpg
+---
+
+![imagen](/img/trab23.jpg)

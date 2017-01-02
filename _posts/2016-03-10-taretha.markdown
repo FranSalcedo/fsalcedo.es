@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Taretha"
+categories: ilustracion
+image: trab24.icon.jpg
+---
+
+![imagen](/img/trab24.jpg)
