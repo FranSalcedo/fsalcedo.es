@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Emma"
-categories: ilustracion
+categories: blog
 image: trab15.icon.jpg
 ---
 
