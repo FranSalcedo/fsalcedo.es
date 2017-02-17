@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El mayor Romancero Ilustrado"
+title:  "El mayor Romancero Gitano Ilustrado"
 categories: Publicaciones
 image: trab25.icon.jpg
 ---
@@ -9,10 +9,10 @@ image: trab25.icon.jpg
  <img src="/img/trab25.jpg" style="display:block;"/>
 </div>
 
-**"El mayor Romancero Ilustrado"**
+**"El mayor Romancero Gitano Ilustrado"**
 
 Os presento este proyecto donde he participado con otros compañeros ilustradores! El Romancero Gitano de Lorca ilustrado. Dentro encontrareis mi ilustración de “Luna, Luna”
 Más de doscientos artistas hemos ilustrado el romancero y vamos a ser nosotros mismos quienes vamos a coeditarlo.
-Si quieres tu ejemplar no dudes en participar en el Verkami y será tuyo!!
+Si quieres tu ejemplar no dudes en participar en el Verkami y será **tuyo**!!
 
 <iframe allowtransparency="true" frameborder="0" height="365" scrolling="no" src="https://www.verkami.com/projects/16435-el-mayor-romancero-gitano-ilustrado/widget_landscape" width="486">No iframes supported</iframe>
