@@ -5,7 +5,7 @@ categories: Publicaciones
 image: trab25.icon.jpg
 ---
 
-<div style="float:left;margin: 0 16px;">
+<div style="float:left;margin: 0 10px;">
  <img src="/img/trab25.jpg" style="display:block;"/>
 </div>
 
