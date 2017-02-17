@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Felices Fiestas"
+categories: Publicaciones
+image: trab25.icon.jpg
+---
+<div style="float:left;margin: 0 16px;">
+ <img src="/img/trab25.jpg" style="display:block;"/>
+ <iframe allowtransparency="true" frameborder="0" height="165" scrolling="no" src="https://www.verkami.com/projects/16435-el-mayor-romancero-gitano-ilustrado/widget_landscape" width="386">No iframes supported</iframe>
+</div>
+
+Os presento este proyecto donde he participado con otros compañeros ilustradores! El Romancero Gitano de Lorca ilustrado. Dentro encontrareis mi ilustración de “Luna, Luna”
+Más de doscientos artistas hemos ilustrado el romancero y vamos a ser nosotros mismos quienes vamos a coeditarlo.
+Si quieres tu ejemplar no dudes en participar en el Verkami y será tuyo!!
