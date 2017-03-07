@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "El mayor Romancero Gitano Ilustrado"
-categories: Publicaciones
+categories: publicaciones
 image: trab25.icon.jpg
 ---
 
