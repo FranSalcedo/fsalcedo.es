@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Abuelo"
+categories: ilustracion
+image: trab26.icon.jpg
+---
+
+<div style="float:left;margin: 0 10px;">
+ <img src="/img/trab26.jpg" style="display:block;"/>
+</div>
+
+**"Crea,no copies. Si creas, serás un autor"**
+Hoy hace trece años que nos dejaste y espero que estés donde estés, me veas todo lo que estoy consiguiendo. Tu nieto luchando por ser un autor!! Es el mejor homenaje que puedo hacerle a mi Abuelo.
+He querido colorearlo y mantener su trazo. Como bien dijo Musilla el arte de dos generaciones en una sola. ¡Espero que os guste!
