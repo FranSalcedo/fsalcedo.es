@@ -11,7 +11,7 @@ orden: 8
 </div>
 
 Sueña con ese Dragón, este es mi lema. Ilustrador nacido en Valencia con la pasión de contar historias corriendo por sus venas.
-Amante del cómic, la ilustración y el cine. Diseñador Gráfico por las mañanas, ilustrador de tardes.
+Amante del cómic, la ilustración y el cine. A veces hago fotos y videos. Siempre aprendiendo y renovandome.
 
 
 
