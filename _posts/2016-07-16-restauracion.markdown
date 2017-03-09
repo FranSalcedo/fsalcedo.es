@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "restauracion"
+title:  "Restauración"
 categories: blog
 image: trab19.icon.jpg
 ---
